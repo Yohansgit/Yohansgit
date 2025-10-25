@@ -2,10 +2,10 @@
   <tr>
     <td>
 
-### 👋 Hi, I'm Yohannes Setotaw
+#####  Hi 👋, I'm Yohannes Setotaw
 
-#💡 **Data Science Analyst**
-**Helping organizations unlock the full potential of their **data assets** through cloud-native solutions, advanced analytics, and automation.**
+## 💡 **Data Science Analyst**
+**Helping healthcare organizations to unlock the full potential of their **data assets** through cloud-native solutions, advanced analytics, and automation.**
 
 ---
 
