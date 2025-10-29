@@ -5,7 +5,7 @@
 #####  Hi 👋, I'm Yohannes Setotaw
 
 ## 💡 **Data Science Analyst**
-**Helping healthcare organizations to unlock the full potential of their **data assets** through cloud-native solutions, advanced analytics, and automation.**
+Helping healthcare organizations to unlock the full potential of their **data assets** through cloud-native solutions, advanced analytics, and automation.
 
 ---
 
@@ -42,11 +42,8 @@ I enjoy working in fast-paced, collaborative environments where I can:
   <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
 
-    </td>
-    <td>
+
 
 <img src="https://as2.ftcdn.net/jpg/02/64/20/25/1000_F_264202539_j2iL5jDhKbA1fRLg2FRviTiHYXXkfVLF.jpg" width="350" alt="Developer at Work" />
 
-    </td>
-  </tr>
-</table>
+
