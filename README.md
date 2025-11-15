@@ -4,7 +4,7 @@
 
 #####  Hi 👋, I'm Yohannes Setotaw
 
-## 💡 **Data Science Analyst**
+## 💡 **Data Scientist**
 Helping healthcare organizations to unlock the full potential of their **data assets** through cloud-native solutions, advanced analytics, and automation.
 
 ---
