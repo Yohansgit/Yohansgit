@@ -24,6 +24,4 @@ flowchart TD
     classDef decision fill:#FDD835,stroke:#F9A825,color:#000;
     classDef output fill:#66BB6A,stroke:#2E7D32,color:#fff;
     classDef monitor fill:#AB47BC,stroke:#6A1B9A,color:#fff;
-
-
 ```
