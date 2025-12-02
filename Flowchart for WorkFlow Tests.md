@@ -1,6 +1,6 @@
 ```mermaid
 flowchart TD
-    %% ===== Diabetic_High-Level E2E Data Flow with Drift Detection =====
+    %% ===== Diabetic-High-Level E2E Data Flow with Drift Detection =====
 
     %% --- Nodes ---
     A[📥 Raw Data Source<br>EHR Diabetes Dataset]:::source
